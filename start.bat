@@ -17,7 +17,7 @@ if exist .venv\Lib\site-packages\six.py (
 )
 
 echo:
-echo Install python and check "Add python.exe to PATH"
+echo Install python 3.10.8 and check "py launcher" in optional features
 echo https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe
 echo:
 
