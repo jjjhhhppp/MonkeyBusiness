@@ -17,7 +17,7 @@ def get_ip():
 ip = get_ip()
 port = 8000
 services_prefix = "/core"
-verbose_log = True
+verbose_log = False
 
 arcade = "Monkey Business"
 paseli = 5730

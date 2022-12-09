@@ -9,10 +9,10 @@ if exist .venv\Lib\site-packages\six.py (
   )
 ) else (
   (
-    python -m venv .venv
+    py -3.10 -m venv .venv
     .venv\Scripts\activate.bat
     pip install -U -r requirements.txt
-    python pyeamu.py
+    py -3.10 pyeamu.py
   )
 )
 
