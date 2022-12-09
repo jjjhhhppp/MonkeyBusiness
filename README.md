@@ -8,15 +8,15 @@ for experimental local testing and playing
 
 ## Instructions
 
-1. Install [python](https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe) with "Add python.exe to PATH" checked
+1. Install [python 3.10.8](https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe) with "py launcher" checked in optional features if running Windows
 
-1. Run `start.bat`
+1. Run `start.bat` on Windows or `start.sh` on Linux
 
 1. Edit prop/ea3-config.xml
 
 ## Playable Games
 
-- DDR A20 PLUS
+- DDR A20 PLUS & OMNIMIX
 - DDR A3
 - IIDX 18 Resort Anthem
 - IIDX 19 Lincle
